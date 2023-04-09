@@ -1,0 +1,11 @@
+#instalação das bibliotecas: pip install pandas, pip install openpyxl, pip install twilio
+
+#passo a passo de solução
+
+#abrir os arquivos excel
+
+#para cada arquivo:
+
+#verificar se algum valor da coluna "vendas" daquele arquivo é maior que 55.000
+
+#Se for maior que 55.00 enviaremos um sms para o número de contato com o nome, mês e as vendas do funcionário
